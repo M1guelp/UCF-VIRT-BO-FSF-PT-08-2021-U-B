@@ -1,7 +1,11 @@
 node_modules
 
 # Activity Solutions
+<<<<<<< HEAD
 Solved
+=======
+#Solved
+>>>>>>> c4401b3e8bdeb4d5a47248f4ec2ea343b0993c10
 #03-Algorithms
 
 # Activities
@@ -11,10 +15,9 @@ Solved
 
 
 # Current Modules
-06-Server-Side-APIs/05-Module-Project/main
+
 
 # Previous HW
-05-Third-Party-APIs/02-Challenge/Main
+06-Server-Side-APIs/02-Challenge/Main
 
 # Current HW
-06-Server-Side-APIs/02-Challenge/Main
