@@ -2,11 +2,16 @@ node_modules
 
 # Activity Solutions
 <<<<<<< HEAD
+<<<<<<< HEAD
 Solved
 =======
 #Solved
 >>>>>>> c4401b3e8bdeb4d5a47248f4ec2ea343b0993c10
 #03-Algorithms
+=======
+Solved
+03-Algorithms
+>>>>>>> 1e0b6087ea37f11c34317622f8c3f9cc7061dd16
 
 # Activities
 06-Server-Side-APIs/01-Activities/03-Gif-Search
@@ -15,9 +20,10 @@ Solved
 
 
 # Current Modules
-
+11-Express/05-Module-Project/main
 
 # Previous HW
-06-Server-Side-APIs/02-Challenge/Main
+10-OOP/02-Challenge/Main
 
 # Current HW
+11-Express/02-Challenge/Main
